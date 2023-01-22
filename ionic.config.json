@@ -1,0 +1,7 @@
+{
+  "name": "AAbad_Examen",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
